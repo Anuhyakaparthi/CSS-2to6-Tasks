@@ -1,0 +1,12 @@
+p{
+    background-color: aqua;
+    background: black;
+}
+span after{
+    src: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxRYrzNB7WKUGx5nfAZ-M2nWdnF3jFGG79gtRAUn8NaGX29dC23SdyNW3RW32AvXeXQcM&usqp=CAU);
+}
+span before{
+    src:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxRYrzNB7WKUGx5nfAZ-M2nWdnF3jFGG79gtRAUn8NaGX29dC23SdyNW3RW32AvXeXQcM&usqp=CAU)
+}
+
+

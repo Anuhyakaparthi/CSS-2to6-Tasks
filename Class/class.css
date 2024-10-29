@@ -1,0 +1,18 @@
+div p{
+    background-color: aqua;
+    color: black;
+}
+div>p{
+    background-color: rgb(127, 27, 214);
+    color: black;
+}
+div+p{
+    background-color: aqua;
+    color: black;
+}
+
+
+
+
+
+
